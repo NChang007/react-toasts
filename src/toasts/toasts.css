@@ -1,0 +1,22 @@
+.toast-container {
+    position: absolute;
+    inset: 0;
+}
+.toast {
+    position: relative;
+    border-radius: 0.365;
+    padding: 1rem;
+}
+.toast[data-position="top-right"] {
+    right: 0;
+    top: 5vh;
+}
+.toast[data-position="top-center"] {
+    right: 50%;
+    transform: translateX(-50%);
+    top: 5vh;
+}
+.toast[data-position="top-left"] {
+    left: 0;
+    top: 5vh;
+}

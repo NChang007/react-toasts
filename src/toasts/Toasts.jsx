@@ -6,7 +6,7 @@ const Toasts = () => {
     // I need the where its going to go
     // The action of coming out and other stuff
   return (
-    <div>
+    <div className='toast-container'>
         <div className='toast'>
             This is the text that shows
             <span className='closebtn'>X</span>
