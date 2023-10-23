@@ -20,3 +20,16 @@
     left: 0;
     top: 5vh;
 }
+.toast[data-position="mid-left"] {
+    right: 0;
+    top: 5vh;
+}
+.toast[data-position="mid-left"] {
+    right: 50%;
+    transform: translateX(-50%);
+    top: 5vh;
+}
+.toast[data-position="mid-left"] {
+    left: 0;
+    top: 5vh;
+}
