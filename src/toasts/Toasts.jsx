@@ -1,8 +1,16 @@
 import React from 'react'
 import "./toasts.css"
 
+
+
+const toast = () => {
+    //call to action
+}
+const toastDanger = () => {
+    
+}
 const Toasts = () => {
-    // how the fuck do i set up the toast and where uts us sypposed to be 
+    // how do i set up the toast and where uts us sypposed to be 
     // I need the where its going to go
     // The action of coming out and other stuff
   return (
@@ -15,4 +23,4 @@ const Toasts = () => {
   )
 }
 
-export default Toasts
+export  { Toasts }
