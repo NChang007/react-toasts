@@ -2,7 +2,7 @@ import React from 'react'
 import "./toasts.css"
 
 
-// how do i call this like this "toast.danger for red and so on "
+// how do i call this like this "toast.danger for red and so on toast.warn toast.success"
 const toast = () => {
     //call to action
 }
