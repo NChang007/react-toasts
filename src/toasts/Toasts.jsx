@@ -2,14 +2,14 @@ import React from 'react'
 import "./toasts.css"
 
 
-
+// how do i call this like this "toast.danger for red and so on "
 const toast = () => {
     //call to action
 }
 const toastDanger = () => {
     
 }
-const Toasts = () => {
+const toasts = () => {
     // how do i set up the toast and where uts us sypposed to be 
     // I need the where its going to go
     // The action of coming out and other stuff
@@ -23,4 +23,4 @@ const Toasts = () => {
   )
 }
 
-export  { Toasts }
+export  { toasts }
