@@ -8,6 +8,7 @@ const toast = () => {
 }
 const toastDanger = () => {
     console.log("danger toast");
+    console.log("danger toast");
 }
 const toasts = () => {
     // how do i set up the toast and where uts us sypposed to be 
